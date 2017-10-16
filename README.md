@@ -9,7 +9,7 @@ This repository accompanies [*%title%*](http://www.apress.com/%isbn%) by %author
 
 This repository contains files that are stored with Git Large File Storage (LFS). To download the complete package, including any large files, first install [Git LFS](https://git-lfs.github.com/). Then clone the repository to your machine using Git or GitHub Desktop.
 
-If you are unable to install Git LFS or do not want to, you can obtain the complete package by following these steps:
+If you are unable to install Git LFS or prefer not to, you can obtain the complete package by following these steps:
 
 1. Download the package as a zip using the green button, or clone the repository to your machine using Git or GitHub Desktop. This package will contain placeholder files for each of the files stored with Git LFS.
 2. For each file stored with Git LFS:
@@ -17,7 +17,7 @@ If you are unable to install Git LFS or do not want to, you can obtain the compl
 
     ![Screenshot: select file](1-select-file.jpg)
 
-    2. Select Download to download the file from Git Large File Storage.
+    2. Select **Download** to download the file from Git Large File Storage.
 
     ![Screenshot: download file](2-download.jpg)
 
