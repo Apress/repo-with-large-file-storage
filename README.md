@@ -13,11 +13,11 @@ If you are unable to install Git LFS or do not want to, you can obtain the compl
 
 1. Download the package as a zip using the green button, or clone the repository to your machine using Git or GitHub Desktop. This package will contain placeholder files for each of the files stored with Git LFS.
 2. For each file stored with Git LFS:
-    a. Navigate to the file on GitHub in your browser.
+    1. Navigate to the file on GitHub in your browser.
 
     ![Screenshot: select file](1-select-file.jpg)
 
-    b. Select Download to download the file from Git Large File Storage.
+    2. Select Download to download the file from Git Large File Storage.
 
     ![Screenshot: download file](2-download.jpg)
 
